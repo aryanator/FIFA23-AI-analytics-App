@@ -3,7 +3,7 @@
 Find the app here- [FIFA23 Analayzer](https://preswald-fifa23-player-analysis-ucbcrhf2-ndjz2ws6la-ue.a.run.app/) and [AI Analytics](https://fifa23-ai-analytics.streamlit.app/)
 
 ## 🎥 Demo
-![LocalityAI Demo](Images-FSA/fifaanalytics-demo.gif)
+![LocalityAI Demo](images/fifaanalytics-demo.gif)
 ![Result](images/fsa2.png)
 ![Result](images/fsa3.png)
 
