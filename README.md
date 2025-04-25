@@ -2,7 +2,10 @@
 
 Find the app here- [FIFA23 Analayzer](https://preswald-fifa23-player-analysis-ucbcrhf2-ndjz2ws6la-ue.a.run.app/) and [AI Analytics](https://fifa23-ai-analytics.streamlit.app/)
 
-<img width="1051" alt="image" src="https://github.com/user-attachments/assets/550d72c1-401d-4e68-9fac-1a11d09b02a5" />
+![Result](images/fsa1.png)
+![Result](images/fsa2.png)
+![Result](images/fsa3.png)
+
 
 
 ## Dataset Source
